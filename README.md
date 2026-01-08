@@ -45,7 +45,7 @@ The dashboard supports **healthcare utilization and operations analysis** by exa
 ---
 
 ## About Me
-Physician (MBBS, DNB Pediatrics) transitioning into **Healthcare Data Analytics**, with a focus on healthcare utilization, claims-based analysis, and population-level insights.
+Physician with a strong foundation in Healthcare Data Analytics, combining clinical expertise with structured data analysis, data quality validation, and analytical reasoning.
 
-**Skills:** SQL • Tableau • Power BI  
-**Training:** Healthcare data analysis, claims-based datasets, HIPAA-compliant data use
+- ### Skills: SQL • Tableau • Power BI • Excel
+- ### Focus Areas: Population health trends • Healthcare utilization & outcomes • Data quality and validation in clinical datasets
